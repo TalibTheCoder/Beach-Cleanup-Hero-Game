@@ -1,1 +1,11 @@
-Hello! This game demonstrates the importance of cleaning up beaches and protecting the environment. It also demonstrates the importance of leadership and the need to take action in one's town or wherever one may be.
+## Beach Cleanup Hero Game
+
+## Goal
+
+Get to the highest level possible
+
+## Controls
+
+Use the arrow keys to move around by picking up the most trash as possible
+
+
