@@ -12,5 +12,3 @@ Use the arrow keys to move around by picking up the most trash as possible
 ## Game Play
 
 ![Start Screen](https://raw.githubusercontent.com/TalibTheCoder/Beach-Cleanup-Hero-Game/main/start.png)
-
-Play: [Play My Awesome Game](https://talibthecoder.github.io/Beach-Cleanup-Hero-Game/)
